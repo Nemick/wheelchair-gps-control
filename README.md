@@ -21,10 +21,20 @@ This project demonstrates a Python-based control system for a motorized wheelcha
 - GSM & GPS modules
 - UART serial communication
 
+## 🧪 Circuit Simulation
+
+Below is the simulation of the wheelchair system showing the connection between the Raspberry Pi, GPS, GSM, and motor driver modules:
+
+[Simulation Diagram](wheelchair_simulation_diagram.png)
+
+The design was simulated using Proteus to verify the hardware logic before implementation.
+
+
 ## 📂 Files
 
 - `wheelchair_control.py`: Main script for GPS, GSM, and motor control
-
+- 'wheelchair_simulation_diagram.png' :Simulation Diagram
+  
 ## ⚙️ How It Works
 
 1. Press directional buttons to control the wheelchair
